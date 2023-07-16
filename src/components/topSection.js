@@ -3,7 +3,7 @@ import banner from "./images/6273534.gif";
 
 const Section = () => {
     return (
-        <div className=" lg:flex flex-row max-w-full ml-8  items-center p-2 sm:p-10 ">
+        <div className=" lg:flex md:pt-7 flex-row max-w-full ml-8  items-center p-2 sm:p-10 ">
             <div className=" md:w-4/5 m-auto lg:mr-12  bg-pink-600 box-shadow:1px solid rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;">
                 <img
                     id="bannerImg"
