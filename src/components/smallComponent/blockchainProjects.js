@@ -14,11 +14,11 @@ const BlockchainProjects = () => {
             <div className=" px-5  flex ">
                 <h1 className="mb-0 m-auto text-3xl font-extrabold   md:text-5xl lg:text-6xl">
                     <span className="text-transparent bg-clip-text bg-gradient-to-r to-blue-600 from-sky-400">
-                        Some Projects
+                        Some
                     </span>
-                    {" In "}
+                    {" "}
                     <span className="   underline underline-offset-3 decoration-8 decoration-blue-600 dark:decoration-blue-600">
-                        Blockchain Development
+                        Blockchain Projects
                     </span>
                 </h1>
             </div>
@@ -176,7 +176,7 @@ const BlockchainProjects = () => {
                                 This crowdfunding smart contract provides a secure and transparent way for entrepreneurs to raise funds from investors. The contract ensures accountability by releasing funds only when certain conditions are met.
                             </p>
                             <a
-                                href="https://github.com/DIWAKARKASHYAP/crowd-funding"
+                                href="#"
                                 target="_blank"
                                 rel="noreferrer"
 
